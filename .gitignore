@@ -1,0 +1,36 @@
+# Compiled object files
+*.o
+*.obj
+*.elf
+
+# Precompiled files
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.out
+*.app
+*.exe
+*.i*86
+*.x86_64
+*.hex
+*.bin
+*.eep
+
+# Arduino IDE build files
+*.ino.cpp
+*.ino.d
+*.ino.o
+*.ino.out
+
+# PlatformIO build folder
+.pio/
+
+# VSCode settings (optional, if you use VSCode with Arduino)
+.vscode/
